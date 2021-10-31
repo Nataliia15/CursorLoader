@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CursorLoaderExample</string>
+    <string name="delete_record">Delete</string>
+    <string name="add_record">Add record</string>
+</resources>
